@@ -9,12 +9,12 @@
   "dependencies": {
     "react": "16.3.1",
     "react-native": "0.55.4",
-    "react-native-auth0": "^1.2.2",
-    "react-native-config": "^0.11.5",
-    "react-native-device-info": "^0.21.0",
+    "react-native-auth0": "1.2.2",
+    "react-native-config": "0.11.5",
+    "react-native-device-info": "0.21.0",
     "react-native-restart": "0.0.6",
-    "react-native-sensitive-info": "^5.1.0",
-    "react-navigation": "^2.2.3"
+    "react-native-sensitive-info": "5.1.0",
+    "react-navigation": "2.2.3"
   },
   "devDependencies": {
     "babel-jest": "23.0.1",
