@@ -2,6 +2,8 @@
 
 A sample app showing how to implement authentication in React Native using Auth0.
 
+You can read the full tutorial at: [https://blog.pusher.com/react-native-auth0/](https://blog.pusher.com/react-native-auth0/)
+
 ## Getting Started
 
 1.  Create a new app on Auth0
