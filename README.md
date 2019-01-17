@@ -17,7 +17,7 @@ react-native init RNAuthZero
 
 ```
 cd RNAuthZero
-npm install --save react-native-auth0 react-navigation react-native-device-info@0.21.0 react-native-sensitive-info react-native-config react-native-restart
+npm install --save react-native-auth0 react-navigation react-native-device-info@0.21.0 react-native-sensitive-info react-native-config react-native eject
 ```
 
 4.  Setup the packages by following the links:
